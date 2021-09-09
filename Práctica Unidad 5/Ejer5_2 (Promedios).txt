@@ -1,0 +1,3 @@
+Lopez Javier   55.00         regular
+Garcia Ana     15.00           libre
+Farias Daniel  75.00       promocion

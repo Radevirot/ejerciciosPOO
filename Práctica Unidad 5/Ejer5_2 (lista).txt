@@ -1,0 +1,6 @@
+Lopez Javier
+50 60
+Garcia Ana
+20 10
+Farias Daniel
+70 80
